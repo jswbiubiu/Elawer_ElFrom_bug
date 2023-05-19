@@ -1,0 +1,24 @@
+{
+  "name": "init-vue3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5419",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.47",
+    "@element-plus/icons-vue": "^2.0.10",
+    "axios": "^1.2.0",
+    "element-plus": "^2.2.21",
+    "pinia": "^2.0.23",
+    "sass": "^1.56.1",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "vite": "^4.3.2"
+  }
+}
